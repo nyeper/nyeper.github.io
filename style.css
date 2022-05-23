@@ -1,0 +1,51 @@
+.navbar{
+
+   background-color: rgb(52, 160, 90);
+
+}
+.image{
+    color:white;
+}
+.nav-link:hover{
+ color:black;
+
+}
+
+.main{
+    background: url(../images/kule.jpg)no-repeat;
+    background-size:cover;
+    height: 89vh;
+    width: 100%;
+    background-position:50% 50%;
+
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.button{
+   border-color: darkgreen;
+
+}
+
+.active-filter-btn{
+    background-color: blue;
+    color: #fff!important;
+    border-color: blue;
+}
+.filter-button-group .btn:hover{
+    background-color:blue;
+}
+.collection-img span{
+    top: 20px;
+    right: 20px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+
+#hakkımızdaresim{
+   width: 400px;
+
+}
